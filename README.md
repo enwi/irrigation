@@ -1,6 +1,8 @@
 # irrigation
 Simple time based irrigation controller using the  ESP32 or ESP8266
 
+![ui image](https://raw.githubusercontent.com/enwi/irrigation/master/img/UI.png)
+
 ## Features
 * Web UI for configuration
 * NTP time based watering
