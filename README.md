@@ -22,6 +22,3 @@ Simple time based irrigation controller using the  ESP32 or ESP8266
 * Upload the code
 * Type in `irrigation.local` in any browser (of a device connected to the same network) to open up the control panel
 * Change settings as wished
-
-# Support
-If you want to support my work you can store on Amazon via this link: [Amazon Referral Link](https://www.amazon.de/?tag=enwi-21). This is an affiliate link. Through a purchase via this link, I will participate in the turnover. This has no effect on the price for you.
